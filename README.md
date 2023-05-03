@@ -35,3 +35,4 @@ Here are some ideas to get you started:
 
 #### 4. Contributions
 * [covid19-citymap-china](https://github.com/lispc/covid19-citymap-china) (PR: [#3](https://github.com/lispc/covid19-citymap-china/pull/3))
+* [nextcloud-social-login](https://github.com/zorn-v/nextcloud-social-login/) (Issue [#409](https://github.com/zorn-v/nextcloud-social-login/issues/409))
